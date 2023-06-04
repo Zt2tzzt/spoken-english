@@ -45,7 +45,7 @@ I've been meaning to read more book.
 我一直想读书来着.
 
 I've been meaning to star a business.
-`
+
 我一直想创业来着.
 
 - start a business - 创业
@@ -175,33 +175,48 @@ Do you feel like takimg a nap?
 
 - take a nap - 睡个午觉。
 
-## Might as well _
+## Thank you for _ing sth
 
-其实可以 _ 也无妨。
-
-- 代替平常说的 "actually can _"
+谢谢你 _
 
 :egg: eg:
 
-We might as well give up.
+Thank you for working so hard.
 
-我们其实可以放弃。
+谢谢你工作这么努力。
 
-You might as well go home.
+Thank you for answering my questions.
 
-你其实可以回家。
+谢谢你回答我的问题。
 
-We might as well walk to school.
+## What are the chances of _ing?
 
-我们其实可以走路去学校。
+_ 的可能性是多少？
 
-You might as well listen to her.
+:egg: eg:
 
-你其实可以听她的。
+What are the chances of seeing a UFO?
 
-It's raining outside, we might as well stay (at) home.
+看到 UFO 的可能性是多少？
 
-外面在下雨，我们其实可以呆在家里。
+What are the chances of that happening?
+
+这件事发生的可能性是多少？
+
+What are the chances of him (quitting)/(giving up)?
+
+他放弃的可能性是多少？
+
+What are the chances of getting that job?
+
+得到那份工作的可能性是多少？
+
+What are the chances of you rasing my allowance?
+
+你给我涨零花钱的可能性是多少？
+
+- Allowance - 零花钱。
+- pocket money - 口袋里的零钱。
 
 ## I'm into [noun] / _ing sth
 
@@ -241,6 +256,8 @@ I'am into hiking.
 
 我喜欢爬山。
 
+### 1.get into
+
 How did you get into basketball?
 
 你是怎么喜欢上篮球的？
@@ -256,6 +273,34 @@ How did you get into travelling？
 How did you get into coding？
 
 你是怎么喜欢上编程的？
+
+## Might as well _
+
+其实可以 _ 也无妨。
+
+- 代替平常说的 "actually can _"
+
+:egg: eg:
+
+We might as well give up.
+
+我们其实可以放弃。
+
+You might as well go home.
+
+你其实可以回家。
+
+We might as well walk to school.
+
+我们其实可以走路去学校。
+
+You might as well listen to her.
+
+你其实可以听她的。
+
+It's raining outside, we might as well stay (at) home.
+
+外面在下雨，我们其实可以呆在家里。
 
 ## It occurred to me that _
 
@@ -275,13 +320,14 @@ It occurred to me that I forgot to turn off the AC(air conditioner)
 
 我突然意识到我忘记关空调了。
 
+- turn off - 关掉电子产品。
 - AC 空调。
 
 It occurred to me that I forgot to lock the door.
 
 我突然意识到我忘记锁门了。
 
-It occurred to me that I need to grocery store
+It occurred to me that I need to grocery store.
 
 我突然意识到我需要买菜了。
 
@@ -302,20 +348,6 @@ It occurred to me that I'm addicted to video games.
 - addicted to \_ - 对 \_ 上瘾。
 - video game - 电子游戏。
 
-## Thank you for _ing sth
-
-谢谢你 _
-
-:egg: eg:
-
-Thank you for working so hard.
-
-谢谢你工作这么努力。
-
-Thank you for answering my questions.
-
-谢谢你回答我的问题。
-
 ## I wish I could _
 
 我要是能 _ 就好了（表达一种无法实现的愿望）
@@ -333,32 +365,3 @@ I wish I could help.
 I wish I could speak Cantonese.
 
 我要是能能说粤语就好了。
-
-## What are the chances of _ing?
-
-_ 的可能性是多少？
-
-:egg: eg:
-
-What are the chances of seeing a UFO?
-
-看到 UFO 的可能性是多少？
-
-What are the chances of that happening?
-
-这件事发生的可能性是多少？
-
-What are the chances of him (quitting)/(giving up)?
-
-他放弃的可能性是多少？
-
-What are the chances of getting that job?
-
-得到那份工作的可能性是多少？
-
-What are the chances of you rasing my allowance?
-
-你给我涨零花钱的可能性是多少？
-
-- Allowance - 零花钱。
-- pocket money - 口袋里的零钱。
