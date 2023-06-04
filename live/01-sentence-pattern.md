@@ -1,8 +1,8 @@
-# 23-06-03
+# 01 sentence pattern
 
-## what's up with __
+## what's up with _
 
-__ 咋回事啊？
+_ 咋回事啊？
 
 :egg: eg
 
@@ -10,17 +10,17 @@ what's up with that？
 
 那东西是咋回事啊？
 
-## I‘am not sure if i __
+## I‘am not sure if i _
 
-我不确定__
+我不确定_
 
 I‘am not sure if i like her
 
 我不确定我是否喜欢她？
 
-## I've been meaning to __
+## I've been meaning to _
 
-我一直想 __ 来着
+我一直想 _ 来着。
 
 :egg: eg：
 
@@ -45,7 +45,7 @@ I've been meaning to read more book.
 我一直想读书来着.
 
 I've been meaning to star a business.
-
+`
 我一直想创业来着.
 
 - start a business - 创业
@@ -55,13 +55,13 @@ I've been meaning to spend more time with my parent.
 
 我一直想看花时间陪伴我的父母来着。
 
-- spend time with __，陪伴
-- Accompany 陪同（走在路上，有保安陪同的意思）。
+- spend time with _，陪伴
+- Accompany 陪同（”走在路上，有保安陪同的“意思）。
 - stay with，呆在一起的意思。
 
-## I've decided to __
+## I've decided to _
 
-我决定要 __ 了。
+我决定要 _ 了。
 
 :egg: eg：
 
@@ -75,7 +75,7 @@ I've decided to give up.
 
 我决定要放弃了。
 
-I've decided to tak/accepte this job.
+I've decided to take/accepte this job.
 
 我决定要接受这个工作。
 
@@ -84,6 +84,8 @@ I've decided to tak/accepte this job.
 I've decided to move.
 
 我决定要搬家了。
+
+- move - 有搬家的意思。
 
 I've decided to buy this car.
 
@@ -99,7 +101,7 @@ I've decided to go trave.
 
 我决定去旅游。
 
-- go trave - 旅游；go to [具体地点], go [要做某事]
+- go trave - 旅游；（go to [具体地点], go [要做某事]）
 
 I've decided to change my bad habits.
 
@@ -109,9 +111,9 @@ I've decided to (learn swimming) / (learn how to swin)
 
 我决定去学游泳了。
 
-## I've heard that __
+## I've heard that _
 
-我听说 __
+我听说 _
 
 :egg: eg:
 
@@ -139,9 +141,9 @@ I've heard that drinking more water can improve your skin health.
 
 我听说多喝水能提高皮肤的健康。
 
-## Do you feel like __ing?
+## Do you feel like _ing?
 
-你想要 __ 吗？
+你想要 _ 吗？
 
 :egg: eg:
 
@@ -157,6 +159,8 @@ Do you feel like going home?
 
 你想要回家吗？
 
+- gp home - 回家
+
 Do you feel like going to the gym?
 
 你想要去健身房吗？
@@ -171,11 +175,11 @@ Do you feel like takimg a nap?
 
 - take a nap - 睡个午觉。
 
-## Might as well __
+## Might as well _
 
-其实可以 __ 也无妨。
+其实可以 _ 也无妨。
 
-代替平常说的 "actually can __"
+- 代替平常说的 "actually can _"
 
 :egg: eg:
 
@@ -199,9 +203,9 @@ It's raining outside, we might as well stay (at) home.
 
 外面在下雨，我们其实可以呆在家里。
 
-## I'm into __ing sth
+## I'm into [noun] / _ing sth
 
-我喜欢/热衷于 __
+我喜欢/热衷于 _
 
 :egg: eg:
 
@@ -253,9 +257,9 @@ How did you get into coding？
 
 你是怎么喜欢上编程的？
 
-## It occurred to me that __
+## It occurred to me that _
 
-我突然意识到 __ （:bulb: 的意思）
+我突然意识到 _ （:bulb: 的意思）
 
 :egg: eg:
 
@@ -295,12 +299,12 @@ It occurred to me that I'm addicted to video games.
 
 我突然意识到我对电子游戏上瘾了。
 
-- addicted to sth = 对...上瘾。
+- addicted to \_ - 对 \_ 上瘾。
 - video game - 电子游戏。
 
-## Thank you for __ing sth
+## Thank you for _ing sth
 
-谢谢你 __
+谢谢你 _
 
 :egg: eg:
 
@@ -312,9 +316,9 @@ Thank you for answering my questions.
 
 谢谢你回答我的问题。
 
-## I wish I could __
+## I wish I could _
 
-我要是能 __ 就好了（表达一种无法实现的愿望）
+我要是能 _ 就好了（表达一种无法实现的愿望）
 
 :egg: eg:
 
@@ -330,9 +334,9 @@ I wish I could speak Cantonese.
 
 我要是能能说粤语就好了。
 
-## What are the chances of __ing?
+## What are the chances of _ing?
 
-__ 的可能性是多少？
+_ 的可能性是多少？
 
 :egg: eg:
 
@@ -344,7 +348,7 @@ What are the chances of that happening?
 
 这件事发生的可能性是多少？
 
-What are the chances of him quitting/giving up?
+What are the chances of him (quitting)/(giving up)?
 
 他放弃的可能性是多少？
 
