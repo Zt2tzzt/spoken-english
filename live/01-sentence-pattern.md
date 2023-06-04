@@ -278,7 +278,7 @@ How did you get into coding？
 
 其实可以 _ 也无妨。
 
-- 代替平常说的 "actually can _"
+代替平常说的 "actually can _"
 
 :egg: eg:
 
@@ -337,7 +337,7 @@ It occurred to me that I forgot to turn off the oven.
 
 我突然意识到我忘记关烤箱了。
 
-It occurred to me that I need to buy a gift for may girlfriend.
+It occurred to me that I need to buy a gift for my girlfriend.
 
 我突然意识到我需要给我的女朋友买个礼物。
 
