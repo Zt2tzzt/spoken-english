@@ -175,6 +175,10 @@ Do you feel like takimg a nap?
 
 - take a nap - 睡个午觉。
 
+Do you feel like ordering pizza?
+
+你想点披萨吗？
+
 ## Thank you for _ing sth
 
 谢谢你 _

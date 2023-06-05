@@ -138,7 +138,7 @@ I have been resisting the urge to eat.
 
 我一直都在克制吃东西的欲望。
 
-## I have been (_ing)/noun for \_
+## I have been _ing/[noun] for \_
 
 我 _ 已经 \_
 
@@ -511,7 +511,7 @@ There's no way he can/could win.
 
 他不可能能赢。
 
-- can/could - 没有区别。
+- can/could - 在这里没有区别。
 
 There's no way he will agree/say yes.
 

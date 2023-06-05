@@ -128,7 +128,7 @@ When my dad told me he wanted to quit his job, I was like "no way".
 
 当我爸告诉我他想辞职，我当时的反应是“不是吧？”
 
-## It goes without saying that _ing/（statement）
+## It goes without saying that _ing/[statement]
 
 毋庸置疑的是 _
 
@@ -339,3 +339,95 @@ I've had enough of American food.
 I've had enough of working hard.
 
 我受够了努力工作。
+
+## I’d like you to _
+
+I would like you to _
+
+我希望你能 _
+
+替代：I hope/wish you can _
+
+:egg: eg:
+
+I'd like you to know that I love you.
+
+我希望你能知道我爱你。
+
+I'd like you to answer my questions.
+
+我希望你能回答我的问题。
+
+I'd like you to be here.
+
+我希望你能在这里。
+
+I'd like you to give me some advice.
+
+我希望你能给我一些建议。
+
+- advice - 高层次的建议（人生的建议）
+- suggestion - 同层次的提议.
+- tips - 小技巧。
+
+I'd like you to consider this offer.
+
+我希望你能考虑这个 offer.
+
+I'd like you to apologize.
+
+我希望你能道歉。
+
+I'd like you to work for me.
+
+我希望你能为我工作。
+
+I'd like you to tell me the truth.
+
+我希望你能告诉我真相。
+
+I'd like you to change.
+
+我希望你去换衣服。
+
+- chage - 改变
+- 在生活中也有”换衣服“、”零钱“的意思。
+
+## I should've _(过去式)
+
+我本该 _
+
+:egg: eg:
+
+I should've asked.
+
+我本该问的。
+
+I should've told you.
+
+我本该告诉你。
+
+I should've said no.
+
+我本该告诉你。
+
+I should've listened.
+
+我本该听的。
+
+I should've left.
+
+我本该离开的。
+
+I should've saved money.
+
+我本该存钱的。
+
+I should've checked.
+
+我本该重复检查的
+
+- double-check - 重复检查、多检查两边
+
+
+
