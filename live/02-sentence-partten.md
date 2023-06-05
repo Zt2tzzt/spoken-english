@@ -197,13 +197,13 @@ I didn't meat to offend you.
 我不是故意要冒犯你的。
 
 - offense = 进攻的。
-- offend - 进攻/冒犯
+- offend - 进攻/冒犯。
 - defense - 防守的
 - defend - 防守
 
 I didn't mean to be late.
 
-我不是故意要要迟到
+我不是故意要要迟到。
 
 - be late - 迟到。
 

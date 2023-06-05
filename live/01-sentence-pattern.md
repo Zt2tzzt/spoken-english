@@ -96,6 +96,9 @@ I've decided to go to grocery store.
 我决定去买菜。
 
 - grocery shopping / buy groceries - 买菜
+- Go on a grocery run.
+- I need to get some groceries.
+- Pick up some groceries.
 
 I've decided to go trave.
 
