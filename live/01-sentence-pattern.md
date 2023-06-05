@@ -40,7 +40,7 @@ I've been meaning to thank you.
 
 我一直想谢谢你来着。
 
-I've been meaning to read more book.
+I've been meaning to read more books.
 
 我一直想读书来着.
 
@@ -218,7 +218,7 @@ What are the chances of you rasing my allowance?
 - Allowance - 零花钱。
 - pocket money - 口袋里的零钱。
 
-## I'm into [noun] / _ing sth
+## I'm into _ing/[noun]
 
 我喜欢/热衷于 _
 
