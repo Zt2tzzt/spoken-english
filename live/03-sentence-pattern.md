@@ -1,13 +1,15 @@
-## fall off 过气（用法）
+# 03 sentence pattern
+
+## 过气怎么说
 
 fell off- 已经跌落
 
-- fell off content creator
-- fell off vlogger
-- fell off rapper
-- The company fell off
-- Nokia fell off
-- BlackBerry fell off
+- fell off content creator - 过气的 up 主。
+- fell off vlogger - 过气的 vlogger 主
+- fell off rapper - 过气的 rapper 主
+- The company fell off - 这个公司过气了。
+- Nokia fell off - 诺基亚过气了。
+- BlackBerry fell off - 黑莓过气了。
 
 ## I/I've come to realize that _
 
@@ -33,7 +35,7 @@ I've come to realize tiat English is a very important skill.
 
 我逐渐意识到英语是一个很重要的技能。
 
-- vital - （存货下来必须的）东西。
+- vital - （存活下来必须的）东西。
 
 I've come to realize tiat change is inevitable.
 
@@ -98,7 +100,7 @@ I play games for a living.
 
 ## I was like _
 
-我当时的反应是 _ / 我当时的说法是 _；（形容一段精力）
+我当时的反应是 \_ / 我当时的说法是 \_；（形容一段经历）
 
 he was like _
 
@@ -165,6 +167,32 @@ It goes without saying that you're grounded,
 
 - you're grounded - 你被禁足了
 
+## I've had enough of _ing/[statement]
+
+我已经受够了你 _
+
+:egg: eg:
+
+I've had enough of you.
+
+我已经受够你了。
+
+I've had enough of this.
+
+我已经受够这个了。
+
+I've had enough of my boss.
+
+我已经受够了我的老板。
+
+I've had enough of American food.
+
+我受够了美国才。
+
+I've had enough of working hard.
+
+我受够了努力工作。
+
 ## It's been a while since I _(过去式)
 
 我已经很久没有 _
@@ -195,6 +223,42 @@ It's been a while since I drove a car.
 
 我已经很久没有开过车了。
 
+## I should've _(过去式)
+
+我本该 _
+
+:egg: eg:
+
+I should've asked.
+
+我本该问的。
+
+I should've told you.
+
+我本该告诉你。
+
+I should've said no.
+
+我本该告诉你。
+
+I should've listened.
+
+我本该听的。
+
+I should've left.
+
+我本该离开的。
+
+I should've saved money.
+
+我本该存钱的。
+
+I should've checked.
+
+我本该重复检查的
+
+- double-check - 重复检查、多检查两遍。
+
 ## To the point where _
 
 到了 _ 的程度。
@@ -211,7 +275,7 @@ I'm so busy to the point where I don't have time to eat
 
 She's popular, but not to the point where everybody wants to be her friend.
 
-她很受欢迎，但没到人人都想做她朋友的成都。
+她很受欢迎，但没到人人都想做她朋友的程度。
 
 I'm so lazy to the point where I don't want to do my homework.
 
@@ -231,9 +295,9 @@ Our relationship is so bad to the point where we still don't talk to each other.
 
 我们的关系太坏了，到了我们仍然无法说话的程度。
 
-## I don't have the _ to _
+## I don't have the \_ to \_
 
-我没有这个 _ 去 _
+我没有这个 \_ 去做 \_
 
 :egg: eg:
 
@@ -265,7 +329,7 @@ I don't have the motivation to study.
 
 I don't have the courage to ask her out.
 
-我没有这个勇气去约她出去。
+我没有这个勇气约她出去。
 
 - ask someone out - 越某人出去。
 
@@ -313,32 +377,6 @@ I was about to call you.
 I was about to a apologize.
 
 我正要道歉。
-
-## I've had enough of _ing/[statement]
-
-我已经受够了你 _
-
-:egg: eg:
-
-I've had enough of you.
-
-我已经受够你了。
-
-I've had enough of this.
-
-我已经受够这个了。
-
-I've had enough of my boss.
-
-我已经受够了我的老板。
-
-I've had enough of American food.
-
-我受够了美国才。
-
-I've had enough of working hard.
-
-我受够了努力工作。
 
 ## I’d like you to _
 
@@ -392,42 +430,3 @@ I'd like you to change.
 
 - chage - 改变
 - 在生活中也有”换衣服“、”零钱“的意思。
-
-## I should've _(过去式)
-
-我本该 _
-
-:egg: eg:
-
-I should've asked.
-
-我本该问的。
-
-I should've told you.
-
-我本该告诉你。
-
-I should've said no.
-
-我本该告诉你。
-
-I should've listened.
-
-我本该听的。
-
-I should've left.
-
-我本该离开的。
-
-I should've saved money.
-
-我本该存钱的。
-
-I should've checked.
-
-我本该重复检查的
-
-- double-check - 重复检查、多检查两边
-
-
-
