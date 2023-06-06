@@ -118,11 +118,11 @@ When Jeff told me he won the lottery, I was like "that‘s crazy".
 
 当 Jeff 告诉我他赢得了彩票，我当时的反应是这太疯狂了。
 
-When my dad showed me his new car, I was like, "wow that's a nice car".
+When my dad showed me his new car, I was like "wow that's a nice car".
 
 当我爸给我看了他的新车，我当时的反应是“哇！这新车真不错！”
 
-When my teacher told me to turn in the homework, I was like:“what homework?”
+When my teacher told me to turn in the homework, I was like “what homework?”
 
 当我老师告诉我教作业时，我当时的反应是”什么作业？“。
 
@@ -391,6 +391,8 @@ I would like you to _
 I'd like you to know that I love you.
 
 我希望你能知道我爱你。
+
+- ... know that ... - （语感）
 
 I'd like you to answer my questions.
 
