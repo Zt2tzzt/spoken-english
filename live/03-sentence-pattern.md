@@ -86,8 +86,8 @@ I make videos for a living
 
 我以做视频为生。
 
-- he lives in his parents' basement - 啃老（他住在父母的地下室）。
-- Old money - 至少富过三代人。
+- he lives in his parents' basement - 啃老（他住在父母的地下室生活）。
+- Old money - 至少富过三代人（出自了不起的盖茨比）。
 - New money - 一代富人。
 
 I write books for a living.

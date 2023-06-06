@@ -129,6 +129,8 @@ I have been relaxing / chilling.
 - chill - 本意：寒冷 -> 放松（年轻的用法）。
 - cool - 酷 -> 帅
 - Netfix and chill - 男女之间的放松（有深层含义的那种）。
+- chill out - 放松。
+- chill man - 酷的人。
 
 I have been working hard.
 

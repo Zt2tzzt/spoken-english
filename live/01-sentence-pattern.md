@@ -10,6 +10,41 @@ what's up with that？
 
 那东西是咋回事啊？
 
+What's up with jeff?
+
+jeff 是咋回事啊？
+
+What's up with our teacher?
+
+我们老师咋回事啊？
+
+What's up with your boss?
+
+你的老板是咋回事啊？
+
+What's up with the weather?
+
+这个天气咋回事啊？
+
+What's up with the restaurant?
+
+这个餐厅咋回事啊？
+
+What's up with housing market
+
+这个房市咋回事啊？
+
+- housing market - 房市。
+- stock market - 股市。
+
+What's up with ecomomy
+
+经济是咋回事啊？
+
+> break bad - 误入歧途。
+>
+> breaking bad - 正在误入歧途。
+
 ## I‘am not sure if i _
 
 我不确定_
@@ -113,6 +148,32 @@ I've decided to change my bad habits.
 I've decided to (learn swimming) / (learn how to swin)
 
 我决定去学游泳了。
+
+I've decided to quit smoking (cigarette).
+
+我决定戒烟了。
+
+I've decided to quit drinking (alcohol).
+
+我决定戒酒了。
+
+I've decided to quit drinking bobs/bubble tea
+
+我决定戒奶茶了。
+
+- bobs/bubble tea - 奶茶
+
+> hit the like button - 手机点赞
+>
+> click the like button - PC点赞
+
+I've decided to (go to the bathroom)/(go use the bathroom)/(use the bathroom)
+
+我决定去上厕所。
+
+- bathroom - 洗手间。
+- restroom - 洗手间（礼貌的用法）
+- toilet - 马桶
 
 ## I've heard that _
 
