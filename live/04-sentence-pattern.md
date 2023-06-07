@@ -18,7 +18,7 @@ I'can't help but smile, when I think of her.
 
 I'can't help but laugh because of this silly joke.
 
-我忍不住的笑，因为这个很蠢的笑话
+我忍不住的笑，因为这个很蠢的笑话。
 
 I'can't help but feel proud of my dad.
 
@@ -46,7 +46,7 @@ At the end of the day we all want to be happy.
 
 说到底我们都想要开心。
 
-At the end of the day no nobodu wants to be alone.
+At the end of the day nobodu wants to be alone.
 
 说到底没有人想要孤独。
 
@@ -63,7 +63,7 @@ At the end of the day, (family comes first)/(fmaily is the most important thing 
 说到底家庭是生命里最重要的东西。
 
 - money comes first - 钱是第一的.
-- healthy comes first - 健康是第一的.
+- health comes first - 健康是第一的.
 
 At the end of the day, we all want to be remembered
 
@@ -117,7 +117,7 @@ It's too bad that you got/were fired.
 
 你被炒鱿鱼真是太可惜了。
 
-It's too bad that wo lost the game.
+It's too bad that we lost the game.
 
 这把输了真是太可惜了。
 
@@ -174,3 +174,5 @@ When it comes to shopping, I prefer online-shopping.
 When it comes to singing, she has a beautiful voice.
 
 在唱歌这方面，她有很好听的声音。
+
+- has a beautiful voice - 有一个好声音。
