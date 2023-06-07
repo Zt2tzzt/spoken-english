@@ -341,9 +341,15 @@ I don't have the appetite to eat anything.
 
 我没有这个胃去吃任何东西。
 
-## I was about to _
+## I'm/was about to _
 
-我正要 _ 来着。
+I was about to _
+
+我刚刚正要 _ 来着。
+
+I'm about to _ 
+
+我要去 _
 
 :egg: eg:
 
@@ -377,6 +383,22 @@ I was about to call you.
 I was about to a apologize.
 
 我正要道歉。
+
+I was about to order some delivery.
+
+- take out - 打包带走。
+- delivery service - 外卖。
+
+I'm about to grab some food.
+
+我要去吃东西。
+
+I'm about to go to the mall.
+
+我要去商场。
+
+- mall - 三四五层楼，有电影院，有地下城的商场。
+- plaza - 十几个小商店，组成的商圈。
 
 ## I’d like you to _
 

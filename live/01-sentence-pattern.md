@@ -41,7 +41,7 @@ What's up with ecomomy
 
 经济是咋回事啊？
 
-> break bad - 误入歧途。
+> break bad - 误入歧途（《绝命毒师》的标题）。
 >
 > breaking bad - 正在误入歧途。
 
