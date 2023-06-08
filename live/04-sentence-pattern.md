@@ -46,7 +46,7 @@ At the end of the day we all want to be happy.
 
 说到底我们都想要开心。
 
-At the end of the day nobodu wants to be alone.
+At the end of the day nobody wants to be alone.
 
 说到底没有人想要孤独。
 
@@ -136,7 +136,7 @@ It's too bad that she doesn't speak English.
 
 When it comes to math, I have talent.
 
-在数学这方面，我有天赋
+在数学这方面，我有天赋。
 
 When it comes to food, I prefer Chinese food.
 
