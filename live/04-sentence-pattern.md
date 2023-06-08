@@ -176,3 +176,19 @@ When it comes to singing, she has a beautiful voice.
 在唱歌这方面，她有很好听的声音。
 
 - has a beautiful voice - 有一个好声音。
+
+## I‘m having a hard time _ing
+
+我现在不太能_
+
+:egg: eg:
+
+I‘m having a hard time staying motivated
+
+我现在不太能保持动力。
+
+- stay motivated - 保持动力。
+
+I'm having a hard time finding/getting a job.
+
+我现在不太能找到工作。

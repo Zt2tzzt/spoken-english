@@ -68,7 +68,7 @@ I'm dying to improve/(level up) my English.
 
 I'm dying to watch this movie.
 
-我非常想看这部电影
+我非常想看这部电影：
 
 I'm dying to buy/get/purchase a new car.
 
