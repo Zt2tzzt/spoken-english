@@ -347,7 +347,7 @@ I was about to _
 
 我刚刚正要 _ 来着。
 
-I'm about to _ 
+I'm about to _
 
 我要去 _
 
