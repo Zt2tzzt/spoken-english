@@ -71,30 +71,6 @@ At the end of the day, we all want to be remembered
 
 - be remembered - 被记住。
 
-## I'm not \_, I'm just \_
-
-我不是 \_ , 我只是 \_
-
-:egg: eg:
-
-I'm not lazy, I'm just tired.
-
-我不是懒，我只是累了
-
-I'm not nervous, I'm just shy.
-
-我不是紧张，我只是害羞。
-
-I'm not lost, I'm just (taking a walk)/(going for walk)/(walking around).
-
-我不是迷路了，我只是在散步。
-
-- lost - loss 过去式。
-
-I'm not (going to give up)/(giving up), I'm just (taking a break)/(having a rest).
-
-我不是要放弃，我只是在休息
-
 ## It's too bad that _
 
 _ 真是太可惜了。
@@ -128,6 +104,30 @@ It's too bad that she doesn't speak English.
 - Do you speak English - 你说英语吗（礼貌）
 - Can you speak English - 你说英语吗（僵硬）
 
+## I'm not \_ing, I'm just \_ing
+
+我不是 \_ , 我只是 \_
+
+:egg: eg:
+
+I'm not lazy, I'm just tired.
+
+我不是懒，我只是累了
+
+I'm not nervous, I'm just shy.
+
+我不是紧张，我只是害羞。
+
+I'm not lost, I'm just (taking a walk)/(going for walk)/(walking around).
+
+我不是迷路了，我只是在散步。
+
+- lost - loss 过去式。
+
+I'm not (going to give up)/(giving up), I'm just (taking a break)/(having a rest).
+
+我不是要放弃，我只是在休息
+
 ## When it comes to _ing/[noun]
 
 在 _ 这方面
@@ -148,7 +148,7 @@ When it comes to sports, I favorite is basketball.
 
 When it comes to cars, I prefer Gas(oline) car.
 
-在汽车这方面，我最喜欢油车。
+在汽车这方面，我更喜欢油车。
 
 - gas car - 有车
 - electric car - 电车
