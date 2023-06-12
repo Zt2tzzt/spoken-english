@@ -213,7 +213,7 @@ I didn't mean to
 
 我不是故意的。
 
-I didn't mean to forget you birthday.
+I didn't mean to forget your birthday.
 
 我不是故意要要忘记你的生日。
 
