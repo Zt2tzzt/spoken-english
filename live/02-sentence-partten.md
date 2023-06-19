@@ -280,7 +280,7 @@ I have no idea where to go.
 我完全不知道去哪里？
 
 - where to go - 去哪？
-- how mush to spend - 花多少钱？
+- how much to spend - 花多少钱？
 - what to eat - 吃什么？
 
 I have no idea how to answer.
