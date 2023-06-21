@@ -24,7 +24,7 @@ I'can't help but feel proud of my dad.
 
 我忍不住的为我爸感到骄傲。
 
-I'can't help but worry about my girlfriend
+I'can't help but worry about my girlfriend.
 
 我忍不住的担心我的女朋友。
 
