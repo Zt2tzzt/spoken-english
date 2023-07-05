@@ -140,6 +140,7 @@ I've decided to go trave.
 我决定去旅游。
 
 - go trave - 旅游；（go to [具体地点], go [要做某事]）
+- go to school - 去学校。
 
 I've decided to change my bad habits.
 
